@@ -1,16 +1,35 @@
-### Hi there 👋
+📖 About Me
 
-<!--
-**NathanYearout/NathanYearout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Nathan Yearout, a passionate developer who loves to code and explore new technologies. I enjoy building innovative solutions and collaborating with others to create impactful projects. With a strong foundation in Java, I'm always eager to expand my skill set and take on new challenges.
+🚀 What I'm Working On
+Currently, I'm focusing on honing my skills in Python and artifical intelligence. I'm actively seeking opportunities to contribute to open-source projects and collaborate on exciting ventures. If you have any interesting ideas or projects, feel free to reach out to me!
 
-Here are some ideas to get you started:
+🌱 My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Software Development
+    Web Development
+    Machine Learning
+    Data Science
+    Artificial Intelligence
+
+<!-- 💼 My Experience
+
+I have experience working on various projects, including:
+
+    [Project 1]: Brief description or key features.
+    [Project 2]: Brief description or key features.
+    [Project 3]: Brief description or key features. -->
+
+🎓 Certifications
+
+    Comptia A+ (1101 and 1102)
+    Working towards Network+ currently
+
+📫 How to Reach Me
+
+    📧 Email: nathanyearout@gmail.com
+    🌐 Website: https://nathanyearout.com/
+    💼 LinkedIn: https://www.linkedin.com/in/nathan-yearout/
+    📷 Instagram: https://www.instagram.com/nathan_yearout/
+
+Feel free to connect with me! I'm always open to discussing new opportunities, collaborations, or just having a chat.
