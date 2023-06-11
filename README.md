@@ -7,9 +7,9 @@ Currently, I'm focusing on honing my skills in Python and artifical intelligence
 🌱 My Interests
 
     Software Development
-    Web Development
-    Machine Learning
-    Data Science
+    Networking
+    Security
+    Kubernetes
     Artificial Intelligence
 
 <!-- 💼 My Experience
