@@ -8,9 +8,9 @@ Currently, I'm focusing on honing my skills in Python and artifical intelligence
 
     Software Development
     Networking
-    Security
-    Kubernetes
-    Artificial Intelligence
+    Web development
+    Linux
+    Artificial intelligence
 
 <!-- 💼 My Experience
 
