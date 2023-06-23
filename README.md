@@ -23,7 +23,6 @@ I have experience working on various projects, including:
 🎓 Certifications
 
     Comptia A+ (1101 and 1102)
-    Working towards Network+ currently
 
 📫 How to Reach Me
 
@@ -32,4 +31,4 @@ I have experience working on various projects, including:
     💼 LinkedIn: https://www.linkedin.com/in/nathan-yearout/
     📷 Instagram: https://www.instagram.com/nathan_yearout/
 
-Feel free to connect with me! I'm always open to discussing new opportunities, collaborations, or just having a chat.
+Feel free to connect with me. I'm always open to discussing new opportunities, collaborations, or just having a chat.
