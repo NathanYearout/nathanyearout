@@ -1,8 +1,6 @@
 📖 About Me
 
-Hello there! I'm Nathan Yearout, a passionate developer who loves to code and explore new technologies. I enjoy building innovative solutions and collaborating with others to create impactful projects. With a strong foundation in Java, I'm always eager to expand my skill set and take on new challenges.
-🚀 What I'm Working On
-Currently, I'm focusing on honing my skills in Python and artifical intelligence. I'm actively seeking opportunities to contribute to open-source projects and collaborate on exciting ventures. If you have any interesting ideas or projects, feel free to reach out to me!
+Hello. I'm Nathan Yearout, a passionate developer who loves to code and explore new technologies. I enjoy building innovative solutions and collaborating with others to create impactful projects. If you have any interesting ideas or projects, feel free to reach out to me!
 
 🌱 My Interests
 
@@ -11,14 +9,6 @@ Currently, I'm focusing on honing my skills in Python and artifical intelligence
     Web development
     Linux
     Artificial intelligence
-
-<!-- 💼 My Experience
-
-I have experience working on various projects, including:
-
-    [Project 1]: Brief description or key features.
-    [Project 2]: Brief description or key features.
-    [Project 3]: Brief description or key features. -->
 
 🎓 Certifications
 
